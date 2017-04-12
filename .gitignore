@@ -1,3 +1,9 @@
 *.html
 *.xml
 *.iml
+*.ini
+*.csv
+*.txt
+*.class
+*.name
+*.json
